@@ -1,2 +1,3 @@
 # haleycou-1969720.github.io
-Info 101 stuff
+Github Info 101
+tags.html
